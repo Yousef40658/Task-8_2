@@ -88,3 +88,6 @@ Health of Megatron    : 100
 OPTIMUS WONNN!!
 ```
 
+
+##
+Sorry for the bad quality of the state diagram T-T , i'll search for better tools next time
